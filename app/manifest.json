@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Discover Sharm",
+  "short_name": "Discover Sharm",
+  "description": "Everything you need to know about Sharm El Sheikh in one place",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
