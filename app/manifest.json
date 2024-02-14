@@ -105,7 +105,7 @@
       "name": "Trips",
       "short_name": "Trips",
       "description": "you can Book your trip from discover Sharm Now ",
-      "url": "/search/label/tripd?utm_source=homescreen",
+      "url": "/search/label/trips?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
