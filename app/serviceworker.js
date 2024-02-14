@@ -1,5 +1,5 @@
 /**
- * PWA build by Fineshop Design
+ * PWA powered by Charming Egypt 
  */
 importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/7.0.0/workbox-sw.js"
