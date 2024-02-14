@@ -87,31 +87,7 @@
       "type": "image/png",
       "sizes": "540x720"
     }
-  ],
-  "shortcuts": [
-    {
-      "name": "Where To Go",
-      "short_name": "My Shortcut 1",
-      "description": "The best Places you should visit in Sharm El shikh.",
-      "url": "/search/label/where to go?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
+  ]
     }
   ]
 }
