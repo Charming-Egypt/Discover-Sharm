@@ -90,7 +90,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Where To Go",
+      "name": "My Shortcut 1",
       "short_name": "Where To Go",
       "description": "The best Places you should visit in Sharm El shikh.",
       "url": "/search/label/wher to go?utm_source=homescreen",
