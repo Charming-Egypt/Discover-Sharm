@@ -49,8 +49,8 @@ if (typeof Lazy !== "function") {
         logs.push(["Script: " + registration.active.scriptURL]);
       }
       logs.push(
-        ["Build by: Fineshop Design"],
-        ["Developer site: https://fineshopdesign.com"]
+        ["Build by: Charming Egypt"],
+        ["Developer site: https://www.charming-eg.com"]
       );
 
       groupLog(
