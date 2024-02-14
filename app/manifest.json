@@ -87,7 +87,31 @@
       "type": "image/png",
       "sizes": "540x720"
     }
-  ]
+  ],
+  "shortcuts": [
+    {
+      "name": "Where To Go",
+      "short_name": "Where To Go",
+      "description": "The Best places in Sharm El shikh ",
+      "url": "/search/label/Where%20to%20go",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Trips",
+      "short_name": "Trips",
+      "description": "you can Book your trip from discover Sharm Now ",
+      "url": "/search/label/tripd?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }
