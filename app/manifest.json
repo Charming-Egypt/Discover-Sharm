@@ -5,7 +5,7 @@
   "description": "Everything you need to know about Sharm El Sheikh in one place",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "any",
+  "orientation": "portrait",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
@@ -105,7 +105,20 @@
       "name": "Trips",
       "short_name": "Trips",
       "description": "you can Book your trip from discover Sharm Now ",
-      "url": "/search/label/trips?utm_source=homescreen",
+      "url": "/search/label/trips",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+
+{
+      "name": "Restaurant's",
+      "short_name": "Restaurant's",
+      "description": "The Best Restaurant's in Sharm El Shikh ",
+      "url": "/search/label/Restaurant's",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
