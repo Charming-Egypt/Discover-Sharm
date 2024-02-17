@@ -1,5 +1,5 @@
 if (typeof Lazy !== "function") {
-  /*! Lazy Function by Fineshop Design | uses HTML5 localStorage */
+  /*! Lazy Function by Charming Egypt| uses HTML5 localStorage */
   (function(e) {
     var t = [];
 
@@ -136,12 +136,7 @@ if (typeof Lazy !== "function") {
       initializeOneSignal(oneSignalConfig)
     );
 
-    /**
-     * Load OneSignal SDK only if required
-     * Uses Lazy to lazyload javascript for better performance
-     * 
-     * @see https://www.fineshopdesign.com/2023/04/lazyloading-javascript.html
-     */
+    
     if (typeof OneSignal === "undefined") {
       Lazy(() => {
         const script = document.createElement("script");
