@@ -5,13 +5,12 @@
   "description": "Everything you need to know about Sharm El Sheikh in one place",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "portrait",
-  "start_url": "/",
+  "start_url": "/?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "icons/favicon.ico",
