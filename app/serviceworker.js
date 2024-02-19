@@ -5,6 +5,8 @@ importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/7.0.0/workbox-sw.js"
 );
 
+importScripts("https://progressier.app/YKiRugxkK53boDeBqcBc/sw.js" );
+
 // Configurations for PWA App
 const config = {
   app: {
